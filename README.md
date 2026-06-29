@@ -56,29 +56,6 @@ A fully hand-coded salon landing page built as a portfolio project, exploring cl
 
 ---
 
-## Running locally
-
-No build step needed.
-
-```bash
-git clone https://github.com/YOUR_USERNAME/mira-co-salon-landing.git
-cd mira-co-salon-landing
-# open index.html in any browser
-open index.html
-```
-
-To use your own hero image, replace `Hero_section_image.jpg` in the root and update the `src` in the `<img>` tag inside `.hero__img-frame`.
-
----
-
-## Deploying
-
-**GitHub Pages** — go to Settings → Pages → Source → `main` branch → `/ (root)`. Done.
-
-**Netlify** — drag the project folder into [netlify.com/drop](https://netlify.com/drop). Live in 30 seconds.
-
----
-
 ## What I'd add if this were a real project
 
 - [ ] Backend booking confirmation (Supabase or Firebase)
@@ -91,4 +68,4 @@ To use your own hero image, replace `Hero_section_image.jpg` in the root and upd
 
 ## Licence
 
-Built for portfolio purposes. The salon "Mira & Co." is fictional. Hero photo is a personal use image — do not reuse.
+Built for portfolio purposes. The salon "Mira & Co." is fictional. Hero photo is a used from internet for no commercial use
