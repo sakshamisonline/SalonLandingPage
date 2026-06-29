@@ -2,7 +2,7 @@
 
 A fully hand-coded salon landing page built as a portfolio project, exploring claymorphism UI, scroll-driven animations, and conversion-focused design patterns.
 
-![Mira & Co. Salon Landing Page](preview image.png)
+![Mira & Co. Salon Landing Page](https://raw.githubusercontent.com/sakshamisonline/SalonLandingPage/main/preview.png)
 
 **Live demo →** `[paste your GitHub Pages / Netlify link here]`
 
